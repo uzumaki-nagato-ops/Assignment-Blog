@@ -7,26 +7,26 @@ It includes authentication, blog management, public blog access, and RESTful API
 
 ---
 
-## ?? Features
+## Features
 
-### ?? Authentication
+### Authentication
 - User registration and login
 - Protected admin dashboard
 - Logout functionality
 
-### ?? Blog Management (Admin)
+### Blog Management (Admin)
 - Create blog posts
 - Publish or save posts as drafts
 - Edit and delete posts
 - Only published posts are visible publicly
 
-### ?? Public Blog
+### Public Blog
 - View all published posts
 - View single post by slug
 - Read comments on posts
 - Submit comments on published posts
 
-### ?? Public REST APIs
+### Public REST APIs
 - Fetch all published posts
 - Fetch single post by slug
 - Fetch comments for a post
@@ -34,7 +34,11 @@ It includes authentication, blog management, public blog access, and RESTful API
 
 ---
 
-## ??? Web Application Screenshots
+## Web Application Screenshots
+
+### Registration Page
+
+![image alt](https://github.com/uzumaki-nagato-ops/Assignment-Blog/blob/main/AssignBlog/public/screenshots/registration-page.png?raw=true)
 
 ### Login Page
 
@@ -58,7 +62,7 @@ It includes authentication, blog management, public blog access, and RESTful API
 
 ### Single Blog Post with Comments
 
-## ?? API Screenshots
+## API Screenshots
 
 ### Fetch All Published Posts
 **GET** `/api/posts`
@@ -76,6 +80,7 @@ It includes authentication, blog management, public blog access, and RESTful API
 
 ### Fetch Comments for a Post
 **GET** `/api/posts/{slug}/comments`
+
 
 
 
