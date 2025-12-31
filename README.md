@@ -1,7 +1,7 @@
 # Assignment-Blog
-Holiday Web Dev Assignment by Olawore Abdulazeez Oladimeji 24/10MSS075
-Department of Mathematics and Computing Sciences
-Thomas Adewumi University
+Holiday Web Dev Assignment by Olawore Abdulazeez Oladimeji 24/10MSS075.
+Department of Mathematics and Computing Sciences.
+Thomas Adewumi University.
 
 # Laravel Blog Application
 This project is a Laravel-based blog application developed as part of a Web Application Development assignment.  
@@ -124,6 +124,7 @@ It includes authentication, blog management, public blog access, and RESTful API
    "http://127.0.0.1:8000"
 
    
+
 
 
 
