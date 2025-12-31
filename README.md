@@ -102,9 +102,12 @@ It includes authentication, blog management, public blog access, and RESTful API
 
 ## Technologies Used
 
+### PHP(Laravel Framework)
 ![image alt](https://github.com/uzumaki-nagato-ops/Assignment-Blog/blob/main/AssignBlog/public/screenshots/laravel-screenshot.png?raw=true)
 
+### MySql
 ![image alt](https://github.com/uzumaki-nagato-ops/Assignment-Blog/blob/main/AssignBlog/public/screenshots/mysql-laragon.png?raw=true)
+
 
 
 
