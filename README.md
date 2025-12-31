@@ -1,5 +1,7 @@
 # Assignment-Blog
 Holiday Web Dev Assignment by Olawore Abdulazeez Oladimeji 24/10MSS075
+Department of Mathematics and Computing Sciences
+Thomas Adewumi University
 
 # Laravel Blog Application
 This project is a Laravel-based blog application developed as part of a Web Application Development assignment.  
@@ -105,9 +107,23 @@ It includes authentication, blog management, public blog access, and RESTful API
 ### PHP(Laravel Framework)
 ![image alt](https://github.com/uzumaki-nagato-ops/Assignment-Blog/blob/main/AssignBlog/public/screenshots/laravel-screenshot.png?raw=true)
 
-### MySql
+### MySql(Laragon)
 ![image alt](https://github.com/uzumaki-nagato-ops/Assignment-Blog/blob/main/AssignBlog/public/screenshots/mysql-laragon.png?raw=true)
 
+
+## How to Run the Project
+1. Clone the repository
+2. Install dependencies
+   "composer install"
+3. Configure .env file
+4. Run migrations
+   "php artisan migrate"
+5. Start the server
+   "php artisan serve"
+6. Open in browser
+   "http://127.0.0.1:8000"
+
+   
 
 
 
