@@ -85,14 +85,16 @@ It includes authentication, blog management, public blog access, and RESTful API
 
 ### Project Database
 
-
+![image alt](https://github.com/uzumaki-nagato-ops/Assignment-Blog/blob/main/AssignBlog/public/screenshots/project-database.png?raw=true)
 
 ### Users
 
-
+![image alt](https://github.com/uzumaki-nagato-ops/Assignment-Blog/blob/main/AssignBlog/public/screenshots/users-database-table.png?raw=true)
 
 ### Posts
 
-
+![image alt](https://github.com/uzumaki-nagato-ops/Assignment-Blog/blob/main/AssignBlog/public/screenshots/posts-database-table.png?raw=true)
 
 ### Comments
+
+![image alt](https://github.com/uzumaki-nagato-ops/Assignment-Blog/blob/main/AssignBlog/public/screenshots/comments-database-table.png?raw=true)
