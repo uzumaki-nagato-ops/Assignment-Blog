@@ -1,6 +1,5 @@
 # Assignment-Blog
-Holiday Web Dev Assignment by Olawore Abdulazeez Oladimeji 24/10MSS075.
-
+Holiday Web Dev Assignment by Olawore Abdulazeez Oladimeji 24/10MSS075.   
 Department of Mathematics and Computing Sciences.
 
 Thomas Adewumi University.
@@ -126,6 +125,7 @@ It includes authentication, blog management, public blog access, and RESTful API
    "http://127.0.0.1:8000"
 
    
+
 
 
 
