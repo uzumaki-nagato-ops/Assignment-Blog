@@ -1,11 +1,11 @@
 # Assignment-Blog
 Holiday Web Dev Assignment by Olawore Abdulazeez Oladimeji 24/10MSS075
 
-## Laravel Blog Application
+# Laravel Blog Application
 This project is a Laravel-based blog application developed as part of a Web Application Development assignment.  
 It includes authentication, blog management, public blog access, and RESTful APIs for mobile applications.
 
----
+
 
 ## Features
 
@@ -98,4 +98,5 @@ It includes authentication, blog management, public blog access, and RESTful API
 ### Comments
 
 ![image alt](https://github.com/uzumaki-nagato-ops/Assignment-Blog/blob/main/AssignBlog/public/screenshots/comments-database-table.png?raw=true)
+
 
