@@ -42,46 +42,57 @@ It includes authentication, blog management, public blog access, and RESTful API
 
 ### Login Page
 
-
----
+![image alt](https://github.com/uzumaki-nagato-ops/Assignment-Blog/blob/main/AssignBlog/public/screenshots/login-page.png?raw=true)
 
 ### Dashboard (After Login)
 
-
----
+![image alt](https://github.com/uzumaki-nagato-ops/Assignment-Blog/blob/main/AssignBlog/public/screenshots/dashboard.png?raw=true)
 
 ### Create Blog Post
 
-
----
+![image alt](https://github.com/uzumaki-nagato-ops/Assignment-Blog/blob/main/AssignBlog/public/screenshots/create-post.png?raw=true)
 
 ### Public Blog Page
 
-
----
+![image alt](https://github.com/uzumaki-nagato-ops/Assignment-Blog/blob/main/AssignBlog/public/screenshots/blog-page.png?raw=true)
 
 ### Single Blog Post with Comments
+
+![image alt](https://github.com/uzumaki-nagato-ops/Assignment-Blog/blob/main/AssignBlog/public/screenshots/single-post-comments%201.png?raw=true)
+
+![image alt](https://github.com/uzumaki-nagato-ops/Assignment-Blog/blob/main/AssignBlog/public/screenshots/single-post-comments%202.png?raw=true)
+
 
 ## API Screenshots
 
 ### Fetch All Published Posts
 **GET** `/api/posts`
 
-
-
----
+![image alt](https://github.com/uzumaki-nagato-ops/Assignment-Blog/blob/main/AssignBlog/public/screenshots/api-posts.png?raw=true)
 
 ### Fetch Single Post by Slug
 **GET** `/api/posts/{slug}`
 
-
-
----
+![image alt](https://github.com/uzumaki-nagato-ops/Assignment-Blog/blob/main/AssignBlog/public/screenshots/api-single-post.png?raw=true)
 
 ### Fetch Comments for a Post
 **GET** `/api/posts/{slug}/comments`
 
+![image alt](https://github.com/uzumaki-nagato-ops/Assignment-Blog/blob/main/AssignBlog/public/screenshots/api-comments.png?raw=true)
+
+
+## Database Screenshots
+
+### Project Database
 
 
 
+### Users
 
+
+
+### Posts
+
+
+
+### Comments
